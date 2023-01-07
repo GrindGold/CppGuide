@@ -24,9 +24,9 @@
 - C++视频推荐
 - C++开源推荐
 
-**[4、Linux C/C++ 校招](#Linux C/C++ 校招)**
+**[4、Linux C/C++ 校招](#LinuxC/C++校招)**
 
-**[5、Linux C/C++ 社招](#Linux C/C++ 社招)**
+**[5、Linux C/C++ 社招](#LinuxC/C++社招)**
 
 
 
@@ -453,13 +453,13 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 
 
 
-<p id="Linux C/C++ 校招"></p>
+<p id="LinuxC/C++校招"></p>
 
 # **4、Linux C/C++ 校招**
 
 
 
-<p id="Linux C/C++ 社招"></p>
+<p id="LinuxC/C++社招"></p>
 
 # **5、Linux C/C++ 社招**
 
