@@ -24,11 +24,13 @@
 - C++视频推荐
 - C++开源推荐
 
-**4、Linux C/C++ 校招**
+**[4、Linux C/C++ 校招](#Linux C/C++ 校招)**
 
-**5、Linux C/C++ 社招**
+**[5、Linux C/C++ 社招](#Linux C/C++ 社招)**
 
 
+
+<p id="往期编程资源推荐"></p>
 
 # **1、往期编程资源推荐**
 
@@ -449,7 +451,15 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 - [MyTinySTL](https://github.com/Alinshans/MyTinySTL):用 C++11 重新复写了一个小型 STL（容器库＋算法库）。代码结构清晰规范、包含中文文档与注释，并且自带一个简单的测试框架，适合 C++ 新手来实践一番。
 - [Tinytetris](https://link.zhihu.com/?target=https%3A//github.com/taylorconor/tinytetris):Tinytetris 是一个用 C++ 编写的终端版俄罗斯方块游戏。它提供了两个版本的源码，分为注释版和库版，注释较多易于理解和学习。
 
+
+
+<p id="Linux C/C++ 校招"></p>
+
 # **4、Linux C/C++ 校招**
+
+
+
+<p id="Linux C/C++ 社招"></p>
 
 # **5、Linux C/C++ 社招**
 
