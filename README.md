@@ -1,23 +1,48 @@
-# CppGuide
-「C/C++学习+面试指南」一份涵盖大部分 C++ 程序员所需要掌握的知识。入门、进阶、深入、校招、社招，准备 C++学习&amp; 面试，首选 CppGuide！
+<h1 align="center">
+  CppGuide
+</h1>
 
-# C语言与C++学习 
+> 「C/C++学习+面试指南」一份涵盖大部分 C++ 程序员所需要掌握的知识。入门、进阶、深入、校招、社招，准备 C++学习 &amp; 面试，首选 **CppGuide**！
 
-强烈推荐开源刷题库，可以注册一个，现在免费，后面可能要收费。
+目录
 
-- [点击免费注册](https://www.nowcoder.com/link/pc_kol_aaaxiu)  
+**[1、往期编程资源推荐](#往期编程资源推荐)**
 
-注：这里只是注册的入口，可以刷算法、C/C++、Java、硬件、前段等，当然还有大厂面经，面试真题，推荐大家注册，以后多刷刷题。修炼好内功！
+**2、C语言相关**
 
-[程序员相关电子书资料仓库|免费分享](https://github.com/GrindGold/pdf)
+- 可能是最好的C语言学习路线
+- C语言相关书籍（附赠PDF资源）
+- C语言干货文章
+- C语言视频推荐
+- C语言开源项目推荐
 
-**如果大家觉得不错，求给个star！**
+**3、C++相关**
 
-## 全部电子书：
+- 可能是最亲民的C++学习路线
+- C++相关书籍（附赠PDF资源）
+- C++干货文章
+- C++视频推荐
+- C++开源推荐
 
-[程序员相关电子书资料仓库|免费分享](https://github.com/GrindGold/pdf)
+**4、Linux C/C++ 校招**
 
-## 知名大学计算机系开源课程收录：
+**5、Linux C/C++ 社招**
+
+
+
+# **1、往期编程资源推荐**
+
+## 1、可能是最好的计算机编程学习刷题网站
+
+推荐一个计算机学习网站，可以刷算法、C/C++、Java、硬件、前端等，还有大厂面经、面试真题等。
+
+这是传送门：[可能是最好的计算机学习网站](https://gitee.com/link?target=https%3A%2F%2Fwww.nowcoder.com%2Flink%2Fpc_kol_aaaxiu)
+
+现在是免费注册的，据我所知后面注册可能要收费了，如果你有类似的需要建议你现在注册一个，以后多刷刷题。修炼好内功！
+
+## 2、[在这里你能找到所有的程序员相关电子书资料](https://github.com/GrindGold/pdf)
+
+## 3、知名大学计算机系开源课程收录
 
 - [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)  
 - [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)  
@@ -26,14 +51,13 @@
 - [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
 - [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/) 
 
+# **2、C语言相关**
 
-
-
-## C语言
+## 可能是最好的C语言学习路线
 
 C 语言可以零基础入门，它的语法是很多高级编程语言的基础，比如说 Java、C++；并且起到承上启下的作用，向上可以学习高级编程语言，向下可以学习计算机组成原理、操作系统等等偏基础的计算机基础知识。  
 
-### C语言相关电子书：
+## C语言相关书籍（附赠PDF资源）
 
 推荐书籍：  
 
@@ -78,7 +102,7 @@ C 语言可以零基础入门，它的语法是很多高级编程语言的基础
 -  [[学通C语言的24堂课].刘彬彬&孙秀梅](https://pan.baidu.com/s/1-i_7N12pDkq4O8zske3gRg )  提取码：f44n 
 -  [[C语言必须知道的300个问题].明日科技.扫描版](https://pan.baidu.com/s/1NgAyb0DoAq3zQvAQI53GXA  )  提取码：bn80  
 
-### C语言文章干货：
+## C语言干货文章
 
 - [C语言最全入门笔记](https://mp.weixin.qq.com/s/JgxmKoXsuiReD_21nd1Pdw)  
 - [C语言书籍、软件、60个源码](https://mp.weixin.qq.com/s/YSqz5tvUI2oCcib4UoYcjg)
@@ -163,12 +187,12 @@ C 语言可以零基础入门，它的语法是很多高级编程语言的基础
 - [C/C++动态检测内存错误利器 - ASan](https://mp.weixin.qq.com/s/TrDsapZkxjtIEjt9A343EQ)  
 - [C/C++ 关于 cJson 库的使用](https://mp.weixin.qq.com/s/096er5n0v8LFe6l8BnQvyg) 
 
-### 视频推荐：
+## C语言视频推荐
 
 - [《郝斌C语言自学教程》](https://www.bilibili.com/video/BV1os411h77o?from=search&seid=15026475169248378667)  
 - [《程序设计入门——C语言（浙大翁恺）》](https://www.bilibili.com/video/BV1ME411h75N?p=48)  
 
-### C语言相关小项目及源码
+## C语言开源项目推荐
 
 - [60个好玩的C语言程序，训练编程思维，培养解决问题的思路，领略多姿多彩的C语言](https://mp.weixin.qq.com/s/ZUHtQxaahrGjvAZVu5jKKg)  
 - [The Algorithms - C](https://github.com/TheAlgorithms/C#the-algorithms---c--mainpage)  
@@ -187,7 +211,9 @@ C 语言可以零基础入门，它的语法是很多高级编程语言的基础
 - [db_tutorial,用 C 从零创建一个简单的数据库](https://github.com/cstack/db_tutorial)  
 - [分享10个适合初学者学习的C开源项目代码](https://mp.weixin.qq.com/s/uwSBqS-VGj2PU3ZIp6FlyA)  
 
-## C++  
+# **3、C++相关**
+
+## 可能是最亲民的C++学习路线
 
 C语言->C with class -> C++; 
 由C++的演变可以看出来，C++ 刚开始就是带类的 C 语言，C 语言和 C++ 的关系到底是什么呢？  
@@ -205,7 +231,9 @@ C语言->C with class -> C++;
 
 C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 
-### C++ 相关书籍
+
+
+## C++相关书籍（附赠PDF资源）
 
 **书籍推荐：**  
 
@@ -226,8 +254,6 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 - [华为最牛逼的c++ 基础与提高PDF](https://mp.weixin.qq.com/s/_3VNj3Hh28Eg21_I3Q7vrg)  
 - [LeetCode101题解](https://wwr.lanzoui.com/iPONZp2zd9e)  
 - [Google 开源项目风格指南——中文版](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)  
-
-**C++ 相关电子书和资料:**  
 
 需要下载下面电子书的话，直接点击书名，输入提取码！   
 
@@ -274,7 +300,9 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 -  [C++ Primer（第5版）_带书签_高清完整版](https://pan.baidu.com/s/1rlvQYjV7xWQhd7vYhR4yww )  提取码：x6rl 
 -  [C++ Primer Plus](https://pan.baidu.com/s/1X-p7BY5n2SR9_QF5YDyULg )  提取码：i0p7 
 
-### C++ 干货文章
+## C++干货文章
+
+### 
 
 - [一文让你学完C++，干货收藏！！！](https://mp.weixin.qq.com/s/HxQjYzhqXeKwiQWy_jKFIA)  
 - [2022最稳C/C++学习路线](https://mp.weixin.qq.com/s/e0QsJcfHf6WLCMp1wpg9ig)  
@@ -400,15 +428,14 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 - [加密与解密](https://mp.weixin.qq.com/s/wRo9UyOAQxT1gSE6jVkPKQ)  
 - [TCP数据粘包的处理](https://mp.weixin.qq.com/s/WacXXMUKD-O8iFvEodpoOA)  
 
-
-### C++视频推荐：
+## C++视频推荐
 
 - [C++视频学习教程基础篇](https://www.bilibili.com/video/BV18h411Q75D/)   
 - [华郑莉老师视频](https://space.bilibili.com/702528832)  
 - [侯捷C++视频全集与陈硕网络编程](https://mp.weixin.qq.com/s/302poB-agGUSepqNlmi9sQ)  
 - [最好的Qt全套视频教程](https://www.bilibili.com/video/BV1jK4y1m7d4)  
 
-### C++ 开源推荐：
+## C++开源推荐
 
 - [FreeNOS](https://github.com/Neirth/FreeNOS):深入理解C++，以及操作系统原理。FreeNOS（Free Niek的操作系统）是一个基于C++的基于微内核的学习操作系统。这是一个用C++实现的微内核的操作系统，各种宏内核中的服务作为一个独立的services在微内核中，基于消息的通信方式，这点其实跟mac内核中的mach那部分机制相似。  
 - [Boost](https://www.boost.org/):Boost 库是一个经过千锤百炼、可移植、提供源代码的C++ 库，作为标准库的后备，是C++ 标准化进程的发动机之一。 Boost 库由C++标准委员会库工作组成员发起，在C++ 社区中影响甚大，其成员已近2000 人。 Boost 库为我们带来了最新、最酷、最实用的技术，是不折不扣的“ 准” 标准库。
@@ -421,25 +448,18 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial):modern-cpp-tutorial 是现代 C++ 教程，它的目的是提供关于现代 C++（2020 年前）的相关特性的全面介绍。
 - [MyTinySTL](https://github.com/Alinshans/MyTinySTL):用 C++11 重新复写了一个小型 STL（容器库＋算法库）。代码结构清晰规范、包含中文文档与注释，并且自带一个简单的测试框架，适合 C++ 新手来实践一番。
 - [Tinytetris](https://link.zhihu.com/?target=https%3A//github.com/taylorconor/tinytetris):Tinytetris 是一个用 C++ 编写的终端版俄罗斯方块游戏。它提供了两个版本的源码，分为注释版和库版，注释较多易于理解和学习。
-- [calculator]():
 
-## 操作系统
+# **4、Linux C/C++ 校招**
 
-## 计算机网络 
-
-## 数据库
+# **5、Linux C/C++ 社招**
 
 
-马不停蹄的更新中。。。。。
 
 
-## 赞赏
 
-如果心情好，不介意赞赏一下，祝君 bug 退散
 
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/6.jpg" width="300" height="450" />
-</div>
+
+
 
 
 
