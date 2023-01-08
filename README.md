@@ -8,7 +8,11 @@
 
 **[1、往期编程资源推荐](#往期编程资源推荐)**
 
-**2、C语言相关**
+- 可能是**最好的计算机编程学习刷题网站**
+- 在这里你能找到**所有的计算机编程学习PDF电子书**
+- 知名大学计算机系开源课程收录（清华、北大、浙大、上交等）
+
+**[2、C语言相关](#2、C语言相关)**
 
 - 可能是最好的C语言学习路线
 - C语言相关书籍（附赠PDF资源）
@@ -16,7 +20,7 @@
 - C语言视频推荐
 - C语言开源项目推荐
 
-**3、C++相关**
+**[3、C++相关](#3、C++相关)**
 
 - 可能是最亲民的C++学习路线
 - C++相关书籍（附赠PDF资源）
@@ -42,7 +46,7 @@
 
 现在是免费注册的，据我所知后面注册可能要收费了，如果你有类似的需要建议你现在注册一个，以后多刷刷题。修炼好内功！
 
-## 2、[在这里你能找到所有的程序员相关电子书资料](https://github.com/GrindGold/pdf)
+## 2、[在这里你能找到所有的计算机编程学习PDF电子书料](https://github.com/GrindGold/pdf)
 
 ## 3、知名大学计算机系开源课程收录
 
@@ -52,6 +56,8 @@
 - [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)  
 - [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
 - [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/) 
+
+<p id="2、C语言相关"></p>
 
 # **2、C语言相关**
 
@@ -212,6 +218,8 @@ C 语言可以零基础入门，它的语法是很多高级编程语言的基础
 - [Tinyhttpd,一个不到 500 行的超轻量型 HTTP Server，可以用来理解服务器程序的原理和本质](https://github.com/EZLippi/Tinyhttpd)  
 - [db_tutorial,用 C 从零创建一个简单的数据库](https://github.com/cstack/db_tutorial)  
 - [分享10个适合初学者学习的C开源项目代码](https://mp.weixin.qq.com/s/uwSBqS-VGj2PU3ZIp6FlyA)  
+
+<p id="3、C++相关"></p>
 
 # **3、C++相关**
 
