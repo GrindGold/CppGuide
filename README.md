@@ -8,7 +8,7 @@
 
 **[1、往期编程资源推荐](#往期编程资源推荐)**
 
-- 可能是**最好的计算机编程学习刷题网站**
+- 可能是**最好的互联网面试求职网站**
 - 在这里你能找到**所有的计算机编程学习PDF电子书**
 - 一些你绝对用的上的编程资源汇总
 - 知名大学计算机系开源课程收录（清华、北大、浙大、上交等）
@@ -41,15 +41,27 @@
 
 # **1、往期编程资源推荐**
 
-## 1、可能是最好的计算机编程学习刷题网站
+## 1、可能是最好的互联网面试求职网站
 
-良心推荐一个计算机学习网站，可能是我用过**最好的计算机学习网站**，可以刷算法、C/C++、Java、硬件、前端等，还有大厂面经、面试真题等。
+前段时间我发现了一个很好的面试求职网站，能够根据**指定行业、公司、面试岗位、科目以及考察时间**等进行**定向筛选面试真题**，还附带了**最近考察时间**和**累计考察次数**。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202301170032603.png)
+**简直是一大神器**！！！比如我想查一下行业为互联网，公司为字节跳动，考察岗位为后端，科目不限，而考察时间为最近一年之类的面试题有哪些？
 
-下面是一些我用过的其中一些比较好的在线题库：[C语言练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu01)、[C++练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu03)、[算法-面试必刷101](https://www.nowcoder.com/link/pc_kol_aaaxiu04)、[计算机基础语法练习](https://www.nowcoder.com/link/pc_kol_aaaxiu02)
+![](http://oss.interviewguide.cn/img/202307291803868.png)
 
-现在是免费注册的，据我所知后面注册可能要收费了，如果你有类似的需要建议你现在注册一个，正所谓：**不白嫖就是亏**！！！
+行业除了互联网还有国企、银行、外企等行业，截止我发现的时候是这样的，好像该网站后期又在逐步添加新的数据了。
+
+![](http://oss.interviewguide.cn/img/202307291805445.png)
+
+就拿互联网来说，国内外主流一二线大厂全都覆盖了，比如字节跳动、阿里、腾讯、百度、美团等。
+
+![](http://oss.interviewguide.cn/img/202307291804434.png)
+
+这里分享一下该网站，这么好的东西不能藏私，如果对你有帮助的话，帮忙点个赞就是最大的支持了！！感谢感谢！
+
+**网站链接**：https://top.interviewguide.cn/
+
+
 
 ## 2、[在这里你能找到所有的计算机编程学习PDF电子书料](https://github.com/GrindGold/pdf)
 
@@ -87,6 +99,8 @@
 # **2、C语言相关**
 
 ## 可能是最好的C语言学习路线
+
+[可能是北半球最好的零基础C语言学习路线](https://mp.weixin.qq.com/s/eXphn7fpiKzwZfTULQ9OrQ)
 
 C 语言可以零基础入门，它的语法是很多高级编程语言的基础，比如说 Java、C++；并且起到承上启下的作用，向上可以学习高级编程语言，向下可以学习计算机组成原理、操作系统等等偏基础的计算机基础知识。  
 
@@ -296,6 +310,8 @@ C 语言可以零基础入门，它的语法是很多高级编程语言的基础
 
 ## 可能是最亲民的C++学习路线
 
+[这不就是你想要的保姆级 C++ 学习路线吗？](https://mp.weixin.qq.com/s/QCtQoIOg6_f1GX9rT8jG4Q)
+
 C语言->C with class -> C++; 
 由C++的演变可以看出来，C++ 刚开始就是带类的 C 语言，C 语言和 C++ 的关系到底是什么呢？  
 看过侯捷老师的视频或者《Effective C++》这本书就知道，现如今我们提到 C++，都应该视其为一个庞大的「语言联邦」，最起码包含如下几个重要的组成部分：  
@@ -426,7 +442,7 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 
 ## C++干货文章
 
-
+- [深入探究C++虚函数表——从内存的角度](https://mp.weixin.qq.com/s/xTj_FLz0P3uXi-hi8jN_zA)
 
 - [一文让你学完C++，干货收藏！！！](https://mp.weixin.qq.com/s/HxQjYzhqXeKwiQWy_jKFIA)  
 - [2022最稳C/C++学习路线](https://mp.weixin.qq.com/s/e0QsJcfHf6WLCMp1wpg9ig)  
@@ -579,15 +595,19 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 
 # **4、Linux C/C++ 校招**
 
+- [春招要到了，推荐几个可以练习C/C++以及算法的题库](https://mp.weixin.qq.com/s/hPKwlOq4WzsABeAi_avG4w)
 
+- [CS本，刚接了字节的offer，分享一下我的经验](https://mp.weixin.qq.com/s/SuJ7bnIOPZsqrqQquQO_YA)
+- [万字详解我今年经历的腾讯Linux C++ 笔试/面试题及答案](https://mp.weixin.qq.com/s/HFiolswK_CRyXRPD4cHstg)
+- [20道必须掌握的C++面试题](https://mp.weixin.qq.com/s/CklZPq6T3lD6C3Eg_lQd3Q)
+- [盘点一下Linux/C/C++/嵌入式/硬件相关的公司](https://mp.weixin.qq.com/s/o8C2R3kWJeT1pa49M-LqmQ)
 
 <p id="LinuxC/C++社招"></p>
 
 # **5、Linux C/C++ 社招**
 
-
-
-
+- [硬核 | 50 家企业 C++ 面经分享](https://mp.weixin.qq.com/s/kOOqurMW7NML-A0ow_mD7g)
+- [盘点一下Linux/C/C++/嵌入式/硬件相关的公司](https://mp.weixin.qq.com/s/o8C2R3kWJeT1pa49M-LqmQ)
 
 
 
